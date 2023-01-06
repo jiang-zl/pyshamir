@@ -1,0 +1,5 @@
+Please run the script as follow for install some important libs:
+
+'''Bash
+pip install -r requirements.txt
+'''
